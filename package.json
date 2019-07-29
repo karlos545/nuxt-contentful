@@ -1,6 +1,6 @@
 {
   "name": "nuxtentful",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create Contentful driven sites with nuxt",
   "main": "lib/module.js",
   "scripts": {
