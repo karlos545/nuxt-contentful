@@ -4,7 +4,7 @@
   "description": "Create Contentful driven sites with nuxt",
   "main": "lib/module.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/karlos545/nuxt-contentful#readme",
   "dependencies": {
-    "contentful": "^7.8.2",
-    "npm": "^6.10.2"
+    "contentful": "^7.8.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
   }
 }
